@@ -427,7 +427,7 @@ playerone/
 - Provide browser/environment details
 - Screenshots for UI issues
 
-## 🎉 Game Statistics
+##  Game Statistics
 
 ### On-Chain Game Settings
 - **Max Players**: 4 per game
@@ -456,13 +456,6 @@ playerone/
 - **Cooperative**: Team-based gameplay
 - **AI Opponents**: Practice against bots
 
-## 📞 Support
-
-### Getting Help
-- **Documentation**: This README covers most features
-- **Issues**: Use GitHub Issues for bugs and feature requests
-- **Community**: Join discussions in GitHub Discussions
-
 ### Common Issues
 1. **Database Connection**: Verify Supabase credentials in `.env`
 2. **Socket Connection**: Check server URL configuration
@@ -471,7 +464,4 @@ playerone/
 
 ---
 
-**🎮 Ready to dominate the market? Start your Player Zero journey today!**
-
-*Built with ❤️ using React, Node.js, Socket.io, and Supabase*
-
+*Built with ❤️
